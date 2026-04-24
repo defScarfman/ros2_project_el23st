@@ -24,6 +24,7 @@ setup(
             'second_step = ros2_project_el23st.second_step:main',
             'third_step = ros2_project_el23st.third_step:main',
             'fourth_step = ros2_project_el23st.fourth_step:main',
+            'project_main = ros2_project_el23st.project_main:main',
         ],
     },
 )
